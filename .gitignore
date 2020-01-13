@@ -1,0 +1,11 @@
+# OS or editors files will be ignored
+Thumbs.db
+.DS_Store
+
+#файлы, заканчивающиеся суффиксами _old, _backup 
+
+*_backup
+*_old
+
+# файлы в подкаталоге tmp 
+tmp/
